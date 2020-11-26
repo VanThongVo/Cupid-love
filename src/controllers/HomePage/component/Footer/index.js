@@ -13,7 +13,7 @@ export default function Footer() {
         <div>
             <p>LoveStory Theme © 2020</p>
             <div>
-                <div>test</div>
+                <div>test xxxx</div>
             </div>
         </div>
     )
